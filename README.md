@@ -1,6 +1,6 @@
 # Selenium-POM-TestNG
 ## Prerequisites
-* Install jdk 1.8 or any LTS version
+* Install jdk 8 or any LTS version
 * Configure **JAVA_HOME** and **GRADLE_HOME**
 * Download Allure 2.17.2 and configure environment path
 * Stable internet connection
